@@ -31,7 +31,7 @@ $ docker run -it --rm --name api-gateway --network my-network -p 80:80 api-gatew
 127.0.0.1 customers.acme.com
 ```
 
-### Navigate to services 👌
+### Ready. Navigate to services 👌
 
-http://invoices.acme.com
-http://customers.acme.com
+- http://invoices.acme.com
+- http://customers.acme.com
